@@ -1,4 +1,2 @@
-# Cruise control strategies
-Here I coded some controllers for comfort-oriented cruise control of an autonomous vehicle.
-
-These include LQR, with and without gain-scheduling and compensation using a feed-forward part. The MATLAB codes are accompanied by Simulink models.
+# Comfort-oriented cruise control
+Here, I combined the reference speed generator (done by my friend, I added only her final results here) in the Polynomial_Megane.m files and my work to finally get a complete comfort-oriented cruise control strategy.
