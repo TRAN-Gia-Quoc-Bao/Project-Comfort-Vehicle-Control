@@ -1,2 +1,4 @@
-# Project: Comfort-oriented vehicle cruise and semi-active suspension control
-My work during the research project "Comfort-oriented Adaptive Cruise Control of an Autonomous Vehicle" done at GIPSA-lab, where we considered only cruise control (see the report). Then we extended this into an integrated cruise + semi-active suspension framework.
+# Cruise control strategies
+Here I coded the different controllers for comfort-oriented cruise control of an autonomous vehicle.
+
+These include LQR, with and without gain-scheduling and compensation using a feed-forward part. The MATLAB codes are accompanied by Simulink models.
