@@ -1,2 +1,2 @@
-# Project: Comfort-oriented vehicle cruise and semi-active suspension control
-My work during the research project "Comfort-oriented Adaptive Cruise Control of an Autonomous Vehicle" done at GIPSA-lab, where we considered only cruise control (see the report). Then we extended this into an integrated cruise + semi-active suspension framework.
+# Comfort-oriented cruise control
+Here, I combined the reference speed generator (done by my friend, I added only her final results here) in the Polynomial_Megane.m files and my work to finally get a complete comfort-oriented cruise control strategy.
