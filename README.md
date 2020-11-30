@@ -1,6 +1,8 @@
 # Project: Comfort-oriented vehicle cruise and semi-active suspension control
 My work during the research project "Comfort-oriented Adaptive Cruise Control of an Autonomous Vehicle" done at GIPSA-lab (joint research unit of the French CNRS and Université Grenoble Alpes), January-June 2020, where we considered only cruise control (see details and explanations in the report). Then we extended this into an integrated cruise + semi-active suspension control framework.
 
+The results of the cruise control part have been presented at VSDIA 2020 (the 2 papers with my name). Those of the integrated cruise + suspension control part are being prepared for submission to a journal.
+
 I added the codes for cruise control. Codes for semi-active suspension control will come soon.
 
 Contents:
