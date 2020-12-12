@@ -9,4 +9,7 @@ Contents:
 1. Cruise control strategies: Some cruise control approaches I tried during the project.
 2. Robustness analysis: To analyze the change in performance of three different controllers w.r.t the change in system parameters.
 3. Comfort-oriented cruise control: The final autonomous vehicle cruise control strategy so as to guarantee driving comfort.
+
+By: Gia Quoc Bao TRAN 
+
 ![GIPSA-lab logo](https://github.com/TRAN-Gia-Quoc-Bao/Project-Comfort-Vehicle-Control/blob/main/logoGIPSA.jpg)
