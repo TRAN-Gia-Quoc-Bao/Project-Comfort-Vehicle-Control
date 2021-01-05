@@ -7,7 +7,7 @@ The results of the cruise control part have been presented at [VSDIA 2020](http:
 
 2. Eduarda Costa, Thanh Phong Pham, Olivier Sename, **Gia Quoc Bao Tran**, Trong Tu Do, Péter Gáspár. Definition of a Reference Speed of an Autonomous Vehicle with a Comfort Objective. 17th Mini Conference on Vehicle System Dynamics, Identification and Anomalies, Budapest, Hungary, November 2020. [PDF](https://www.researchgate.net/publication/346674072_Definition_of_a_Reference_Speed_of_an_Autonomous_Vehicle_with_a_Comfort_Objective).
 
-Those results of the integrated cruise + suspension control part are being prepared for submission to a journal.
+Those results of the integrated cruise + suspension control part are being prepared for submission to a journal. Lastly, the project report is found [here](https://www.researchgate.net/publication/343699832_Adaptive_Speed_Control_of_an_Autonomous_Vehicle_with_a_Comfort_Objective).
 
 I added the codes for cruise control. Codes for semi-active suspension control will come soon.
 
