@@ -1,11 +1,11 @@
 # Project: Comfort-oriented vehicle cruise and semi-active suspension control
-My work during the research project "Comfort-oriented Adaptive Cruise Control of an Autonomous Vehicle" done at GIPSA-lab (joint research unit of the French CNRS and Université Grenoble Alpes), January-June 2020, where we considered only cruise control (see details and explanations in the report). Then we extended this into an integrated cruise + semi-active suspension control framework.
+My work during the research project "Comfort-oriented Adaptive Cruise Control of an Autonomous Vehicle" done at GIPSA-lab (joint research unit of the French CNRS and Université Grenoble Alpes), January-June 2020, where we considered only cruise control (see details and explanations in the report). Then we extended this into an integrated cruise + semi-active suspension control framework. The following papers have been uploaded on [my ResearchGate](https://www.researchgate.net/profile/Gia_Quoc_Bao_Tran)
 
 The extended, full results of the project have been presented in the journal article:
 
 1. **Gia Quoc Bao Tran**, Thanh Phong Pham, Olivier Sename, Eduarda Costa, Péter Gáspár. Integrated Comfort-Adaptive Cruise and Semi-Active Suspension Control for an Autonomous Vehicle: An LPV Approach. Electronics, March 2021. [PDF](https://www.mdpi.com/2079-9292/10/7/813). 
 
-Some results of the cruise control part have been presented at [VSDIA 2020](http://vsdia.bme.hu/). The papers have been uploaded on [my ResearchGate](https://www.researchgate.net/profile/Gia_Quoc_Bao_Tran):
+Some results of the cruise control part have been presented at [VSDIA 2020](http://vsdia.bme.hu/):
 
 2. **Gia Quoc Bao Tran**, Olivier Sename, Péter Gáspár, Balázs Németh, Eduarda Costa. Adaptive Speed Control of an Autonomous Vehicle with a Comfort Objective. 17th International Conference on Vehicle System Dynamics, Identification and Anomalies, Budapest, Hungary, November 2020. [PDF](https://www.researchgate.net/publication/346397091_Adaptive_Speed_Control_of_an_Autonomous_Vehicle_with_a_Comfort_Objective). 
 
