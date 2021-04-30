@@ -5,7 +5,7 @@ The extended, full results of the project have been presented in the journal art
 
 1. **Gia Quoc Bao Tran**, Thanh Phong Pham, Olivier Sename, Eduarda Costa, Péter Gáspár. Integrated Comfort-Adaptive Cruise and Semi-Active Suspension Control for an Autonomous Vehicle: An LPV Approach. Electronics, March 2021. [PDF](https://www.researchgate.net/publication/350510129_Integrated_Comfort-Adaptive_Cruise_and_Semi-Active_Suspension_Control_for_an_Autonomous_Vehicle_An_LPV_Approach). 
 
-Some other results of the cruise control part were submitted to a journal.
+1. **Gia Quoc Bao Tran**, Thanh Phong Pham, Olivier Sename, Péter Gáspár. LMI-based Polytopic LQR Cruise Control of an Autonomous Vehicle towards Driving Comfort. To appear in Periodica Polytechnica Transportation Engineering.
 
 Some results of the cruise control part have been presented at the international conference [VSDIA 2020](http://vsdia.bme.hu/):
 
